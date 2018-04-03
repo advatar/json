@@ -1,0 +1,2 @@
+github "vapor/core.git"
+github "vapor/node"
